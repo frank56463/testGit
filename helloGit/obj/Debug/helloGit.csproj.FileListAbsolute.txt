@@ -1,1 +1,10 @@
 c:\users\x550\documents\visual studio 2013\Projects\helloGit\helloGit\bin\Debug\helloGit.exe.config
+C:\Users\x550\Desktop\testGit\helloGit\bin\Debug\helloGit.exe.config
+C:\Users\x550\Desktop\testGit\helloGit\bin\Debug\helloGit.exe
+C:\Users\x550\Desktop\testGit\helloGit\bin\Debug\helloGit.pdb
+C:\Users\x550\Desktop\testGit\helloGit\obj\Debug\helloGit.csprojResolveAssemblyReference.cache
+C:\Users\x550\Desktop\testGit\helloGit\obj\Debug\helloGit.Form1.resources
+C:\Users\x550\Desktop\testGit\helloGit\obj\Debug\helloGit.Properties.Resources.resources
+C:\Users\x550\Desktop\testGit\helloGit\obj\Debug\helloGit.csproj.GenerateResource.Cache
+C:\Users\x550\Desktop\testGit\helloGit\obj\Debug\helloGit.exe
+C:\Users\x550\Desktop\testGit\helloGit\obj\Debug\helloGit.pdb
