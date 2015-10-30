@@ -1,0 +1,1 @@
+c:\users\x550\documents\visual studio 2013\Projects\helloGit\helloGit\bin\Debug\helloGit.exe.config
